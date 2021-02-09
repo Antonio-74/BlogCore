@@ -1,0 +1,17 @@
+C:\Users\Antonio\Desktop\BlogCore\BlogCore.AccesoData\bin\Debug\netcoreapp3.1\BlogCore.AccesoData.deps.json
+C:\Users\Antonio\Desktop\BlogCore\BlogCore.AccesoData\bin\Debug\netcoreapp3.1\BlogCore.AccesoData.dll
+C:\Users\Antonio\Desktop\BlogCore\BlogCore.AccesoData\bin\Debug\netcoreapp3.1\BlogCore.AccesoData.pdb
+C:\Users\Antonio\Desktop\BlogCore\BlogCore.AccesoData\bin\Debug\netcoreapp3.1\BlogCore.Models.dll
+C:\Users\Antonio\Desktop\BlogCore\BlogCore.AccesoData\bin\Debug\netcoreapp3.1\BlogCore.Utilidades.dll
+C:\Users\Antonio\Desktop\BlogCore\BlogCore.AccesoData\bin\Debug\netcoreapp3.1\BlogCore.Models.pdb
+C:\Users\Antonio\Desktop\BlogCore\BlogCore.AccesoData\bin\Debug\netcoreapp3.1\BlogCore.Utilidades.pdb
+C:\Users\Antonio\Desktop\BlogCore\BlogCore.AccesoData\obj\Debug\netcoreapp3.1\BlogCore.AccesoData.csprojAssemblyReference.cache
+C:\Users\Antonio\Desktop\BlogCore\BlogCore.AccesoData\obj\Debug\netcoreapp3.1\BlogCore.AccesoData.AssemblyInfoInputs.cache
+C:\Users\Antonio\Desktop\BlogCore\BlogCore.AccesoData\obj\Debug\netcoreapp3.1\BlogCore.AccesoData.AssemblyInfo.cs
+C:\Users\Antonio\Desktop\BlogCore\BlogCore.AccesoData\obj\Debug\netcoreapp3.1\BlogCore.AccesoData.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Desktop\BlogCore\BlogCore.AccesoData\obj\Debug\netcoreapp3.1\BlogCore.AccesoData.csproj.CopyComplete
+C:\Users\Antonio\Desktop\BlogCore\BlogCore.AccesoData\obj\Debug\netcoreapp3.1\BlogCore.AccesoData.dll
+C:\Users\Antonio\Desktop\BlogCore\BlogCore.AccesoData\obj\Debug\netcoreapp3.1\BlogCore.AccesoData.pdb
+C:\Users\Antonio\Desktop\BlogCore\BlogCore.AccesoData\bin\Debug\netcoreapp3.1\BlogCore.AccesoData.runtimeconfig.json
+C:\Users\Antonio\Desktop\BlogCore\BlogCore.AccesoData\bin\Debug\netcoreapp3.1\BlogCore.AccesoData.runtimeconfig.dev.json
+C:\Users\Antonio\Desktop\BlogCore\BlogCore.AccesoData\obj\Debug\netcoreapp3.1\BlogCore.AccesoData.genruntimeconfig.cache
